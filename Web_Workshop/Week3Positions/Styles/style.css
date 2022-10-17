@@ -1,0 +1,33 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* header {
+    position: fixed;
+    right: 0;
+    background-color: darkkhaki;
+} */
+.home {
+    background-color: darkkhaki;
+    width: 50vw;
+    height: 100vh;
+    margin: auto;
+    /* 
+}
+.home h2 {
+    font-size: 3rem;
+}
+
+.school {
+    background-color: darkcyan;
+    color: antiquewhite;
+    width: fit-content;
+    margin-left: auto;
+}
+.school p {
+    font-size: 2.4rem;
+    position: absolute;
+}
