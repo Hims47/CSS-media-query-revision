@@ -1,0 +1,25 @@
+body {
+    background-color: gold;
+    text-align: center;
+}
+footer {
+    background-color: green;
+}
+form {
+    background-color: silver;
+}
+@media screen and (max-width: 300px) {
+    body{
+        background-color: red;
+    }
+}
+@media screen and (min-width: 600px) {
+    body{
+         background-color: lightblue;
+    }     
+}
+@media screen and (min-width: 900px) {
+    body{
+         background-color: gold;
+    }     
+}
